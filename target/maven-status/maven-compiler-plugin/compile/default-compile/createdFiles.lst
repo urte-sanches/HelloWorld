@@ -1,0 +1,4 @@
+com\example\HelloWorld\Controller\DevelopersController.class
+com\example\HelloWorld\HelloWorldApplication.class
+com\example\HelloWorld\DAO\DevelopersDAO.class
+com\example\HelloWorld\Model\Developer.class
