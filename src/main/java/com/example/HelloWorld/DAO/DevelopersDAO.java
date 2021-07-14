@@ -1,8 +1,6 @@
 package com.example.HelloWorld.DAO;
 
-import com.example.HelloWorld.Model.Developer;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestParam;
+import com.example.HelloWorld.Entity.Developer;
 
 import java.sql.*;
 import java.util.ArrayList;

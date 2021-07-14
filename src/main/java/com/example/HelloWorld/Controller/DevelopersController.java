@@ -2,11 +2,8 @@ package com.example.HelloWorld.Controller;
 
 
 import com.example.HelloWorld.DAO.DevelopersDAO;
-import com.example.HelloWorld.Model.Developer;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.HelloWorld.Entity.Developer;
 import org.springframework.http.HttpStatus;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;

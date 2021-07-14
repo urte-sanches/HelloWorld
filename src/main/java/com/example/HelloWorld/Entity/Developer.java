@@ -1,4 +1,4 @@
-package com.example.HelloWorld.Model;
+package com.example.HelloWorld.Entity;
 
 public class Developer {
 
